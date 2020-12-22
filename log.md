@@ -1,30 +1,32 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+### Day 0: December 12, 2020
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've been coding but wanted to learn and implement Data Structures and Design Patterns in a better manner.
+
+**Link(s) to work**: -
+
+### Day 1: December 13, 2020
+
+### Day 2: December 14, 2020
+
+### Day 3: December 15, 2020
+
+### Day 4: December 16, 2020
+
+### Day 5: December 17, 2020
+
+### Day 6: December 18, 2020
+
+### Day 7: December 19, 2020
+
+### Day 8: December 20, 2020
+
+### Day 9: December 21, 2020
+
+### Day 10: December 22, 2020
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. Will be populating
